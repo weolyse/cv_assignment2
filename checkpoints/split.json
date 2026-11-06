@@ -1,0 +1,1102 @@
+{
+  "seed": 42,
+  "classes": [
+    "Diseased",
+    "Healthy"
+  ],
+  "duplicates_removed": 0,
+  "train": [
+    [
+      "/Users/weolyse/Documents/Computer Vision/ass-1/plant_dataset/Diseased/Image416_1060.jpg",
+      0
+    ],
+    [
+      "/Users/weolyse/Documents/Computer Vision/ass-1/plant_dataset/Diseased/Image416_1.jpg",
+      0
+    ],
+    [
+      "/Users/weolyse/Documents/Computer Vision/ass-1/plant_dataset/Diseased/Image416_1198.jpg",
+      0
+    ],
+    [
+      "/Users/weolyse/Documents/Computer Vision/ass-1/plant_dataset/Diseased/Image416_1102.jpg",
+      0
+    ],
+    [
+      "/Users/weolyse/Documents/Computer Vision/ass-1/plant_dataset/Healthy/Image416_2091.jpg",
+      1
+    ],
+    [
+      "/Users/weolyse/Documents/Computer Vision/ass-1/plant_dataset/Diseased/Image416_27.jpg",
+      0
+    ],
+    [
+      "/Users/weolyse/Documents/Computer Vision/ass-1/plant_dataset/Healthy/Image416_2057.jpg",
+      1
+    ],
+    [
+      "/Users/weolyse/Documents/Computer Vision/ass-1/plant_dataset/Healthy/IMG20261005125655.jpg",
+      1
+    ],
+    [
+      "/Users/weolyse/Documents/Computer Vision/ass-1/plant_dataset/Diseased/Image416_1483.jpg",
+      0
+    ],
+    [
+      "/Users/weolyse/Documents/Computer Vision/ass-1/plant_dataset/Diseased/Image416_1041.jpg",
+      0
+    ],
+    [
+      "/Users/weolyse/Documents/Computer Vision/ass-1/plant_dataset/Diseased/Image416_1170.jpg",
+      0
+    ],
+    [
+      "/Users/weolyse/Documents/Computer Vision/ass-1/plant_dataset/Healthy/Image416_1898.jpg",
+      1
+    ],
+    [
+      "/Users/weolyse/Documents/Computer Vision/ass-1/plant_dataset/Healthy/IMG20261005125414.jpg",
+      1
+    ],
+    [
+      "/Users/weolyse/Documents/Computer Vision/ass-1/plant_dataset/Diseased/Image416_1552.jpg",
+      0
+    ],
+    [
+      "/Users/weolyse/Documents/Computer Vision/ass-1/plant_dataset/Healthy/Image416_1752.jpg",
+      1
+    ],
+    [
+      "/Users/weolyse/Documents/Computer Vision/ass-1/plant_dataset/Diseased/Image416_1593.jpg",
+      0
+    ],
+    [
+      "/Users/weolyse/Documents/Computer Vision/ass-1/plant_dataset/Healthy/Image416_1993.jpg",
+      1
+    ],
+    [
+      "/Users/weolyse/Documents/Computer Vision/ass-1/plant_dataset/Diseased/Image416_1159.jpg",
+      0
+    ],
+    [
+      "/Users/weolyse/Documents/Computer Vision/ass-1/plant_dataset/Diseased/Image416_1106.jpg",
+      0
+    ],
+    [
+      "/Users/weolyse/Documents/Computer Vision/ass-1/plant_dataset/Diseased/Image416_1037.jpg",
+      0
+    ],
+    [
+      "/Users/weolyse/Documents/Computer Vision/ass-1/plant_dataset/Diseased/Image416_1141.jpg",
+      0
+    ],
+    [
+      "/Users/weolyse/Documents/Computer Vision/ass-1/plant_dataset/Healthy/Image416_2108.jpg",
+      1
+    ],
+    [
+      "/Users/weolyse/Documents/Computer Vision/ass-1/plant_dataset/Healthy/Image416_1762.jpg",
+      1
+    ],
+    [
+      "/Users/weolyse/Documents/Computer Vision/ass-1/plant_dataset/Healthy/Image416_1858.jpg",
+      1
+    ],
+    [
+      "/Users/weolyse/Documents/Computer Vision/ass-1/plant_dataset/Diseased/Image416_1122.jpg",
+      0
+    ],
+    [
+      "/Users/weolyse/Documents/Computer Vision/ass-1/plant_dataset/Diseased/Image416_1022.jpg",
+      0
+    ],
+    [
+      "/Users/weolyse/Documents/Computer Vision/ass-1/plant_dataset/Diseased/Image416_1538.jpg",
+      0
+    ],
+    [
+      "/Users/weolyse/Documents/Computer Vision/ass-1/plant_dataset/Healthy/IMG20261005125834.jpg",
+      1
+    ],
+    [
+      "/Users/weolyse/Documents/Computer Vision/ass-1/plant_dataset/Diseased/Image416_1630.jpg",
+      0
+    ],
+    [
+      "/Users/weolyse/Documents/Computer Vision/ass-1/plant_dataset/Healthy/Image416_1815.jpg",
+      1
+    ],
+    [
+      "/Users/weolyse/Documents/Computer Vision/ass-1/plant_dataset/Healthy/Image416_1847.jpg",
+      1
+    ],
+    [
+      "/Users/weolyse/Documents/Computer Vision/ass-1/plant_dataset/Healthy/IMG20261005125638.jpg",
+      1
+    ],
+    [
+      "/Users/weolyse/Documents/Computer Vision/ass-1/plant_dataset/Diseased/Image416_1533.jpg",
+      0
+    ],
+    [
+      "/Users/weolyse/Documents/Computer Vision/ass-1/plant_dataset/Healthy/Image416_1582.jpg",
+      1
+    ],
+    [
+      "/Users/weolyse/Documents/Computer Vision/ass-1/plant_dataset/Diseased/Image416_1547.jpg",
+      0
+    ],
+    [
+      "/Users/weolyse/Documents/Computer Vision/ass-1/plant_dataset/Diseased/Image416_1030.jpg",
+      0
+    ],
+    [
+      "/Users/weolyse/Documents/Computer Vision/ass-1/plant_dataset/Healthy/IMG20261005125339.jpg",
+      1
+    ],
+    [
+      "/Users/weolyse/Documents/Computer Vision/ass-1/plant_dataset/Diseased/Image416_114.jpg",
+      0
+    ],
+    [
+      "/Users/weolyse/Documents/Computer Vision/ass-1/plant_dataset/Healthy/Image416_1597.jpg",
+      1
+    ],
+    [
+      "/Users/weolyse/Documents/Computer Vision/ass-1/plant_dataset/Diseased/Image416_143.jpg",
+      0
+    ],
+    [
+      "/Users/weolyse/Documents/Computer Vision/ass-1/plant_dataset/Healthy/IMG20261005125708.jpg",
+      1
+    ],
+    [
+      "/Users/weolyse/Documents/Computer Vision/ass-1/plant_dataset/Diseased/Image416_1023.jpg",
+      0
+    ],
+    [
+      "/Users/weolyse/Documents/Computer Vision/ass-1/plant_dataset/Healthy/Image416_1595.jpg",
+      1
+    ],
+    [
+      "/Users/weolyse/Documents/Computer Vision/ass-1/plant_dataset/Diseased/Image416_1111.jpg",
+      0
+    ],
+    [
+      "/Users/weolyse/Documents/Computer Vision/ass-1/plant_dataset/Healthy/Image416_1709.jpg",
+      1
+    ],
+    [
+      "/Users/weolyse/Documents/Computer Vision/ass-1/plant_dataset/Diseased/Image416_1585.jpg",
+      0
+    ],
+    [
+      "/Users/weolyse/Documents/Computer Vision/ass-1/plant_dataset/Diseased/Image416_150.jpg",
+      0
+    ],
+    [
+      "/Users/weolyse/Documents/Computer Vision/ass-1/plant_dataset/Healthy/Image416_2114.jpg",
+      1
+    ],
+    [
+      "/Users/weolyse/Documents/Computer Vision/ass-1/plant_dataset/Diseased/Image416_1489.jpg",
+      0
+    ],
+    [
+      "/Users/weolyse/Documents/Computer Vision/ass-1/plant_dataset/Diseased/Image416_1016.jpg",
+      0
+    ],
+    [
+      "/Users/weolyse/Documents/Computer Vision/ass-1/plant_dataset/Diseased/Image416_4.jpg",
+      0
+    ],
+    [
+      "/Users/weolyse/Documents/Computer Vision/ass-1/plant_dataset/Diseased/Image416_1578.jpg",
+      0
+    ],
+    [
+      "/Users/weolyse/Documents/Computer Vision/ass-1/plant_dataset/Healthy/IMG20261005125356.jpg",
+      1
+    ],
+    [
+      "/Users/weolyse/Documents/Computer Vision/ass-1/plant_dataset/Diseased/Image416_80.jpg",
+      0
+    ],
+    [
+      "/Users/weolyse/Documents/Computer Vision/ass-1/plant_dataset/Healthy/Image416_1548.jpg",
+      1
+    ],
+    [
+      "/Users/weolyse/Documents/Computer Vision/ass-1/plant_dataset/Healthy/Image416_1998.jpg",
+      1
+    ],
+    [
+      "/Users/weolyse/Documents/Computer Vision/ass-1/plant_dataset/Diseased/Image416_1199.jpg",
+      0
+    ],
+    [
+      "/Users/weolyse/Documents/Computer Vision/ass-1/plant_dataset/Diseased/Image416_1063.jpg",
+      0
+    ],
+    [
+      "/Users/weolyse/Documents/Computer Vision/ass-1/plant_dataset/Diseased/Image416_1492.jpg",
+      0
+    ],
+    [
+      "/Users/weolyse/Documents/Computer Vision/ass-1/plant_dataset/Diseased/Image416_1120.jpg",
+      0
+    ],
+    [
+      "/Users/weolyse/Documents/Computer Vision/ass-1/plant_dataset/Healthy/Image416_1636.jpg",
+      1
+    ],
+    [
+      "/Users/weolyse/Documents/Computer Vision/ass-1/plant_dataset/Diseased/Image416_1622.jpg",
+      0
+    ],
+    [
+      "/Users/weolyse/Documents/Computer Vision/ass-1/plant_dataset/Diseased/Image416_17.jpg",
+      0
+    ],
+    [
+      "/Users/weolyse/Documents/Computer Vision/ass-1/plant_dataset/Diseased/Image416_1575.jpg",
+      0
+    ],
+    [
+      "/Users/weolyse/Documents/Computer Vision/ass-1/plant_dataset/Diseased/Image416_1154.jpg",
+      0
+    ],
+    [
+      "/Users/weolyse/Documents/Computer Vision/ass-1/plant_dataset/Diseased/Image416_1160.jpg",
+      0
+    ],
+    [
+      "/Users/weolyse/Documents/Computer Vision/ass-1/plant_dataset/Diseased/Image416_1512.jpg",
+      0
+    ],
+    [
+      "/Users/weolyse/Documents/Computer Vision/ass-1/plant_dataset/Healthy/IMG20261005125604.jpg",
+      1
+    ],
+    [
+      "/Users/weolyse/Documents/Computer Vision/ass-1/plant_dataset/Diseased/Image416_1337.jpg",
+      0
+    ],
+    [
+      "/Users/weolyse/Documents/Computer Vision/ass-1/plant_dataset/Diseased/Image416_1175.jpg",
+      0
+    ],
+    [
+      "/Users/weolyse/Documents/Computer Vision/ass-1/plant_dataset/Healthy/IMG20261005125838.jpg",
+      1
+    ],
+    [
+      "/Users/weolyse/Documents/Computer Vision/ass-1/plant_dataset/Diseased/Image416_106.jpg",
+      0
+    ],
+    [
+      "/Users/weolyse/Documents/Computer Vision/ass-1/plant_dataset/Diseased/Image416_1095.jpg",
+      0
+    ],
+    [
+      "/Users/weolyse/Documents/Computer Vision/ass-1/plant_dataset/Diseased/Image416_1097.jpg",
+      0
+    ],
+    [
+      "/Users/weolyse/Documents/Computer Vision/ass-1/plant_dataset/Diseased/Image416_133.jpg",
+      0
+    ],
+    [
+      "/Users/weolyse/Documents/Computer Vision/ass-1/plant_dataset/Healthy/Image416_1872.jpg",
+      1
+    ],
+    [
+      "/Users/weolyse/Documents/Computer Vision/ass-1/plant_dataset/Diseased/Image416_1130.jpg",
+      0
+    ],
+    [
+      "/Users/weolyse/Documents/Computer Vision/ass-1/plant_dataset/Healthy/Image416_2058.jpg",
+      1
+    ],
+    [
+      "/Users/weolyse/Documents/Computer Vision/ass-1/plant_dataset/Healthy/Image416_1532.jpg",
+      1
+    ],
+    [
+      "/Users/weolyse/Documents/Computer Vision/ass-1/plant_dataset/Healthy/IMG20261005125351.jpg",
+      1
+    ],
+    [
+      "/Users/weolyse/Documents/Computer Vision/ass-1/plant_dataset/Healthy/Image416_1774.jpg",
+      1
+    ],
+    [
+      "/Users/weolyse/Documents/Computer Vision/ass-1/plant_dataset/Healthy/Image416_1843.jpg",
+      1
+    ],
+    [
+      "/Users/weolyse/Documents/Computer Vision/ass-1/plant_dataset/Diseased/Image416_127.jpg",
+      0
+    ],
+    [
+      "/Users/weolyse/Documents/Computer Vision/ass-1/plant_dataset/Diseased/Image416_123.jpg",
+      0
+    ],
+    [
+      "/Users/weolyse/Documents/Computer Vision/ass-1/plant_dataset/Diseased/Image416_25.jpg",
+      0
+    ],
+    [
+      "/Users/weolyse/Documents/Computer Vision/ass-1/plant_dataset/Healthy/IMG20261005125544.jpg",
+      1
+    ],
+    [
+      "/Users/weolyse/Documents/Computer Vision/ass-1/plant_dataset/Healthy/IMG20261005125236.jpg",
+      1
+    ],
+    [
+      "/Users/weolyse/Documents/Computer Vision/ass-1/plant_dataset/Healthy/Image416_1797.jpg",
+      1
+    ],
+    [
+      "/Users/weolyse/Documents/Computer Vision/ass-1/plant_dataset/Diseased/Image416_74.jpg",
+      0
+    ],
+    [
+      "/Users/weolyse/Documents/Computer Vision/ass-1/plant_dataset/Diseased/Image416_1099.jpg",
+      0
+    ],
+    [
+      "/Users/weolyse/Documents/Computer Vision/ass-1/plant_dataset/Healthy/IMG20261005125723.jpg",
+      1
+    ],
+    [
+      "/Users/weolyse/Documents/Computer Vision/ass-1/plant_dataset/Diseased/Image416_79.jpg",
+      0
+    ],
+    [
+      "/Users/weolyse/Documents/Computer Vision/ass-1/plant_dataset/Diseased/Image416_1096.jpg",
+      0
+    ],
+    [
+      "/Users/weolyse/Documents/Computer Vision/ass-1/plant_dataset/Diseased/Image416_136.jpg",
+      0
+    ],
+    [
+      "/Users/weolyse/Documents/Computer Vision/ass-1/plant_dataset/Healthy/IMG20261005125335.jpg",
+      1
+    ],
+    [
+      "/Users/weolyse/Documents/Computer Vision/ass-1/plant_dataset/Diseased/Image416_1061.jpg",
+      0
+    ],
+    [
+      "/Users/weolyse/Documents/Computer Vision/ass-1/plant_dataset/Diseased/Image416_23.jpg",
+      0
+    ],
+    [
+      "/Users/weolyse/Documents/Computer Vision/ass-1/plant_dataset/Diseased/Image416_84.jpg",
+      0
+    ],
+    [
+      "/Users/weolyse/Documents/Computer Vision/ass-1/plant_dataset/Diseased/Image416_1491.jpg",
+      0
+    ],
+    [
+      "/Users/weolyse/Documents/Computer Vision/ass-1/plant_dataset/Healthy/Image416_1731.jpg",
+      1
+    ],
+    [
+      "/Users/weolyse/Documents/Computer Vision/ass-1/plant_dataset/Healthy/Image416_1708.jpg",
+      1
+    ],
+    [
+      "/Users/weolyse/Documents/Computer Vision/ass-1/plant_dataset/Healthy/Image416_1592.jpg",
+      1
+    ],
+    [
+      "/Users/weolyse/Documents/Computer Vision/ass-1/plant_dataset/Diseased/Image416_1195.jpg",
+      0
+    ],
+    [
+      "/Users/weolyse/Documents/Computer Vision/ass-1/plant_dataset/Diseased/Image416_1079.jpg",
+      0
+    ],
+    [
+      "/Users/weolyse/Documents/Computer Vision/ass-1/plant_dataset/Healthy/IMG20261005125253.jpg",
+      1
+    ],
+    [
+      "/Users/weolyse/Documents/Computer Vision/ass-1/plant_dataset/Healthy/Image416_2011.jpg",
+      1
+    ],
+    [
+      "/Users/weolyse/Documents/Computer Vision/ass-1/plant_dataset/Diseased/Image416_1017.jpg",
+      0
+    ],
+    [
+      "/Users/weolyse/Documents/Computer Vision/ass-1/plant_dataset/Healthy/Image416_2104.jpg",
+      1
+    ],
+    [
+      "/Users/weolyse/Documents/Computer Vision/ass-1/plant_dataset/Healthy/IMG20261005125303.jpg",
+      1
+    ],
+    [
+      "/Users/weolyse/Documents/Computer Vision/ass-1/plant_dataset/Healthy/Image416_2068.jpg",
+      1
+    ],
+    [
+      "/Users/weolyse/Documents/Computer Vision/ass-1/plant_dataset/Diseased/Image416_1052.jpg",
+      0
+    ],
+    [
+      "/Users/weolyse/Documents/Computer Vision/ass-1/plant_dataset/Diseased/Image416_69.jpg",
+      0
+    ],
+    [
+      "/Users/weolyse/Documents/Computer Vision/ass-1/plant_dataset/Healthy/IMG20261005120230.jpg",
+      1
+    ],
+    [
+      "/Users/weolyse/Documents/Computer Vision/ass-1/plant_dataset/Healthy/IMG20261005125541.jpg",
+      1
+    ],
+    [
+      "/Users/weolyse/Documents/Computer Vision/ass-1/plant_dataset/Diseased/Image416_1579.jpg",
+      0
+    ],
+    [
+      "/Users/weolyse/Documents/Computer Vision/ass-1/plant_dataset/Diseased/Image416_109.jpg",
+      0
+    ],
+    [
+      "/Users/weolyse/Documents/Computer Vision/ass-1/plant_dataset/Diseased/Image416_105.jpg",
+      0
+    ],
+    [
+      "/Users/weolyse/Documents/Computer Vision/ass-1/plant_dataset/Diseased/Image416_1150.jpg",
+      0
+    ],
+    [
+      "/Users/weolyse/Documents/Computer Vision/ass-1/plant_dataset/Healthy/Image416_1805.jpg",
+      1
+    ],
+    [
+      "/Users/weolyse/Documents/Computer Vision/ass-1/plant_dataset/Diseased/Image416_1183.jpg",
+      0
+    ],
+    [
+      "/Users/weolyse/Documents/Computer Vision/ass-1/plant_dataset/Diseased/Image416_44.jpg",
+      0
+    ],
+    [
+      "/Users/weolyse/Documents/Computer Vision/ass-1/plant_dataset/Diseased/Image416_71.jpg",
+      0
+    ],
+    [
+      "/Users/weolyse/Documents/Computer Vision/ass-1/plant_dataset/Healthy/Image416_1751.jpg",
+      1
+    ],
+    [
+      "/Users/weolyse/Documents/Computer Vision/ass-1/plant_dataset/Diseased/Image416_1038.jpg",
+      0
+    ],
+    [
+      "/Users/weolyse/Documents/Computer Vision/ass-1/plant_dataset/Healthy/IMG20261005125643.jpg",
+      1
+    ],
+    [
+      "/Users/weolyse/Documents/Computer Vision/ass-1/plant_dataset/Diseased/Image416_1191.jpg",
+      0
+    ],
+    [
+      "/Users/weolyse/Documents/Computer Vision/ass-1/plant_dataset/Healthy/Image416_1677.jpg",
+      1
+    ],
+    [
+      "/Users/weolyse/Documents/Computer Vision/ass-1/plant_dataset/Diseased/Image416_1091.jpg",
+      0
+    ],
+    [
+      "/Users/weolyse/Documents/Computer Vision/ass-1/plant_dataset/Healthy/Image416_1613.jpg",
+      1
+    ],
+    [
+      "/Users/weolyse/Documents/Computer Vision/ass-1/plant_dataset/Diseased/Image416_158.jpg",
+      0
+    ],
+    [
+      "/Users/weolyse/Documents/Computer Vision/ass-1/plant_dataset/Diseased/Image416_159.jpg",
+      0
+    ],
+    [
+      "/Users/weolyse/Documents/Computer Vision/ass-1/plant_dataset/Diseased/Image416_1062.jpg",
+      0
+    ],
+    [
+      "/Users/weolyse/Documents/Computer Vision/ass-1/plant_dataset/Healthy/IMG20261005125705.jpg",
+      1
+    ],
+    [
+      "/Users/weolyse/Documents/Computer Vision/ass-1/plant_dataset/Healthy/IMG20261005125535.jpg",
+      1
+    ],
+    [
+      "/Users/weolyse/Documents/Computer Vision/ass-1/plant_dataset/Diseased/Image416_94.jpg",
+      0
+    ],
+    [
+      "/Users/weolyse/Documents/Computer Vision/ass-1/plant_dataset/Diseased/Image416_14.jpg",
+      0
+    ],
+    [
+      "/Users/weolyse/Documents/Computer Vision/ass-1/plant_dataset/Diseased/Image416_156.jpg",
+      0
+    ],
+    [
+      "/Users/weolyse/Documents/Computer Vision/ass-1/plant_dataset/Healthy/IMG20261005125409.jpg",
+      1
+    ],
+    [
+      "/Users/weolyse/Documents/Computer Vision/ass-1/plant_dataset/Diseased/Image416_90.jpg",
+      0
+    ],
+    [
+      "/Users/weolyse/Documents/Computer Vision/ass-1/plant_dataset/Diseased/Image416_41.jpg",
+      0
+    ],
+    [
+      "/Users/weolyse/Documents/Computer Vision/ass-1/plant_dataset/Healthy/Image416_2005.jpg",
+      1
+    ],
+    [
+      "/Users/weolyse/Documents/Computer Vision/ass-1/plant_dataset/Healthy/Image416_1673.jpg",
+      1
+    ],
+    [
+      "/Users/weolyse/Documents/Computer Vision/ass-1/plant_dataset/Healthy/IMG20261005125405.jpg",
+      1
+    ],
+    [
+      "/Users/weolyse/Documents/Computer Vision/ass-1/plant_dataset/Healthy/Image416_1562.jpg",
+      1
+    ],
+    [
+      "/Users/weolyse/Documents/Computer Vision/ass-1/plant_dataset/Healthy/IMG20261005125711.jpg",
+      1
+    ],
+    [
+      "/Users/weolyse/Documents/Computer Vision/ass-1/plant_dataset/Healthy/IMG20261005125247.jpg",
+      1
+    ],
+    [
+      "/Users/weolyse/Documents/Computer Vision/ass-1/plant_dataset/Healthy/IMG20261005125651.jpg",
+      1
+    ],
+    [
+      "/Users/weolyse/Documents/Computer Vision/ass-1/plant_dataset/Healthy/Image416_2103.jpg",
+      1
+    ],
+    [
+      "/Users/weolyse/Documents/Computer Vision/ass-1/plant_dataset/Healthy/Image416_1565.jpg",
+      1
+    ],
+    [
+      "/Users/weolyse/Documents/Computer Vision/ass-1/plant_dataset/Diseased/Image416_1113.jpg",
+      0
+    ],
+    [
+      "/Users/weolyse/Documents/Computer Vision/ass-1/plant_dataset/Healthy/Image416_1534.jpg",
+      1
+    ],
+    [
+      "/Users/weolyse/Documents/Computer Vision/ass-1/plant_dataset/Diseased/Image416_1599.jpg",
+      0
+    ],
+    [
+      "/Users/weolyse/Documents/Computer Vision/ass-1/plant_dataset/Diseased/Image416_89.jpg",
+      0
+    ],
+    [
+      "/Users/weolyse/Documents/Computer Vision/ass-1/plant_dataset/Healthy/IMG20261005125555.jpg",
+      1
+    ],
+    [
+      "/Users/weolyse/Documents/Computer Vision/ass-1/plant_dataset/Diseased/Image416_6.jpg",
+      0
+    ],
+    [
+      "/Users/weolyse/Documents/Computer Vision/ass-1/plant_dataset/Healthy/Image416_1892.jpg",
+      1
+    ],
+    [
+      "/Users/weolyse/Documents/Computer Vision/ass-1/plant_dataset/Healthy/IMG20261005125316.jpg",
+      1
+    ],
+    [
+      "/Users/weolyse/Documents/Computer Vision/ass-1/plant_dataset/Healthy/Image416_1561.jpg",
+      1
+    ],
+    [
+      "/Users/weolyse/Documents/Computer Vision/ass-1/plant_dataset/Diseased/Image416_68.jpg",
+      0
+    ],
+    [
+      "/Users/weolyse/Documents/Computer Vision/ass-1/plant_dataset/Healthy/IMG20261005125321.jpg",
+      1
+    ],
+    [
+      "/Users/weolyse/Documents/Computer Vision/ass-1/plant_dataset/Healthy/IMG20261005120239.jpg",
+      1
+    ],
+    [
+      "/Users/weolyse/Documents/Computer Vision/ass-1/plant_dataset/Healthy/IMG20261005125631.jpg",
+      1
+    ],
+    [
+      "/Users/weolyse/Documents/Computer Vision/ass-1/plant_dataset/Diseased/Image416_1053.jpg",
+      0
+    ],
+    [
+      "/Users/weolyse/Documents/Computer Vision/ass-1/plant_dataset/Healthy/Image416_1874.jpg",
+      1
+    ],
+    [
+      "/Users/weolyse/Documents/Computer Vision/ass-1/plant_dataset/Healthy/IMG20261005125739.jpg",
+      1
+    ],
+    [
+      "/Users/weolyse/Documents/Computer Vision/ass-1/plant_dataset/Healthy/IMG20261005125455.jpg",
+      1
+    ],
+    [
+      "/Users/weolyse/Documents/Computer Vision/ass-1/plant_dataset/Diseased/Image416_1109.jpg",
+      0
+    ],
+    [
+      "/Users/weolyse/Documents/Computer Vision/ass-1/plant_dataset/Healthy/IMG20261005125212.jpg",
+      1
+    ],
+    [
+      "/Users/weolyse/Documents/Computer Vision/ass-1/plant_dataset/Healthy/Image416_1676.jpg",
+      1
+    ],
+    [
+      "/Users/weolyse/Documents/Computer Vision/ass-1/plant_dataset/Healthy/Image416_1545.jpg",
+      1
+    ],
+    [
+      "/Users/weolyse/Documents/Computer Vision/ass-1/plant_dataset/Healthy/Image416_2042.jpg",
+      1
+    ],
+    [
+      "/Users/weolyse/Documents/Computer Vision/ass-1/plant_dataset/Diseased/Image416_1616.jpg",
+      0
+    ],
+    [
+      "/Users/weolyse/Documents/Computer Vision/ass-1/plant_dataset/Healthy/Image416_2012.jpg",
+      1
+    ],
+    [
+      "/Users/weolyse/Documents/Computer Vision/ass-1/plant_dataset/Healthy/Image416_1905.jpg",
+      1
+    ],
+    [
+      "/Users/weolyse/Documents/Computer Vision/ass-1/plant_dataset/Healthy/IMG20261005125613.jpg",
+      1
+    ],
+    [
+      "/Users/weolyse/Documents/Computer Vision/ass-1/plant_dataset/Healthy/Image416_1729.jpg",
+      1
+    ],
+    [
+      "/Users/weolyse/Documents/Computer Vision/ass-1/plant_dataset/Healthy/Image416_1803.jpg",
+      1
+    ],
+    [
+      "/Users/weolyse/Documents/Computer Vision/ass-1/plant_dataset/Healthy/IMG20261005125504.jpg",
+      1
+    ],
+    [
+      "/Users/weolyse/Documents/Computer Vision/ass-1/plant_dataset/Diseased/Image416_1612.jpg",
+      0
+    ],
+    [
+      "/Users/weolyse/Documents/Computer Vision/ass-1/plant_dataset/Healthy/IMG20261005125600.jpg",
+      1
+    ],
+    [
+      "/Users/weolyse/Documents/Computer Vision/ass-1/plant_dataset/Diseased/Image416_1518.jpg",
+      0
+    ],
+    [
+      "/Users/weolyse/Documents/Computer Vision/ass-1/plant_dataset/Healthy/IMG20261005125646.jpg",
+      1
+    ],
+    [
+      "/Users/weolyse/Documents/Computer Vision/ass-1/plant_dataset/Diseased/Image416_130.jpg",
+      0
+    ],
+    [
+      "/Users/weolyse/Documents/Computer Vision/ass-1/plant_dataset/Healthy/IMG20261005125557.jpg",
+      1
+    ],
+    [
+      "/Users/weolyse/Documents/Computer Vision/ass-1/plant_dataset/Diseased/Image416_135.jpg",
+      0
+    ],
+    [
+      "/Users/weolyse/Documents/Computer Vision/ass-1/plant_dataset/Healthy/IMG20261005125222.jpg",
+      1
+    ],
+    [
+      "/Users/weolyse/Documents/Computer Vision/ass-1/plant_dataset/Diseased/Image416_1484.jpg",
+      0
+    ],
+    [
+      "/Users/weolyse/Documents/Computer Vision/ass-1/plant_dataset/Healthy/IMG20261005125330.jpg",
+      1
+    ],
+    [
+      "/Users/weolyse/Documents/Computer Vision/ass-1/plant_dataset/Diseased/Image416_28.jpg",
+      0
+    ],
+    [
+      "/Users/weolyse/Documents/Computer Vision/ass-1/plant_dataset/Healthy/Image416_1733.jpg",
+      1
+    ]
+  ],
+  "validation": [
+    [
+      "/Users/weolyse/Documents/Computer Vision/ass-1/plant_dataset/Healthy/Image416_1827.jpg",
+      1
+    ],
+    [
+      "/Users/weolyse/Documents/Computer Vision/ass-1/plant_dataset/Diseased/Image416_1569.jpg",
+      0
+    ],
+    [
+      "/Users/weolyse/Documents/Computer Vision/ass-1/plant_dataset/Healthy/IMG20261005125300.jpg",
+      1
+    ],
+    [
+      "/Users/weolyse/Documents/Computer Vision/ass-1/plant_dataset/Diseased/Image416_1086.jpg",
+      0
+    ],
+    [
+      "/Users/weolyse/Documents/Computer Vision/ass-1/plant_dataset/Healthy/IMG20261005125401.jpg",
+      1
+    ],
+    [
+      "/Users/weolyse/Documents/Computer Vision/ass-1/plant_dataset/Diseased/Image416_1007.jpg",
+      0
+    ],
+    [
+      "/Users/weolyse/Documents/Computer Vision/ass-1/plant_dataset/Healthy/Image416_1563.jpg",
+      1
+    ],
+    [
+      "/Users/weolyse/Documents/Computer Vision/ass-1/plant_dataset/Diseased/Image416_87.jpg",
+      0
+    ],
+    [
+      "/Users/weolyse/Documents/Computer Vision/ass-1/plant_dataset/Healthy/Image416_2085.jpg",
+      1
+    ],
+    [
+      "/Users/weolyse/Documents/Computer Vision/ass-1/plant_dataset/Diseased/Image416_1117.jpg",
+      0
+    ],
+    [
+      "/Users/weolyse/Documents/Computer Vision/ass-1/plant_dataset/Diseased/Image416_1004.jpg",
+      0
+    ],
+    [
+      "/Users/weolyse/Documents/Computer Vision/ass-1/plant_dataset/Healthy/IMG20261005125635.jpg",
+      1
+    ],
+    [
+      "/Users/weolyse/Documents/Computer Vision/ass-1/plant_dataset/Healthy/Image416_2106.jpg",
+      1
+    ],
+    [
+      "/Users/weolyse/Documents/Computer Vision/ass-1/plant_dataset/Healthy/Image416_1715.jpg",
+      1
+    ],
+    [
+      "/Users/weolyse/Documents/Computer Vision/ass-1/plant_dataset/Diseased/Image416_1137.jpg",
+      0
+    ],
+    [
+      "/Users/weolyse/Documents/Computer Vision/ass-1/plant_dataset/Diseased/Image416_1164.jpg",
+      0
+    ],
+    [
+      "/Users/weolyse/Documents/Computer Vision/ass-1/plant_dataset/Diseased/Image416_1591.jpg",
+      0
+    ],
+    [
+      "/Users/weolyse/Documents/Computer Vision/ass-1/plant_dataset/Diseased/Image416_126.jpg",
+      0
+    ],
+    [
+      "/Users/weolyse/Documents/Computer Vision/ass-1/plant_dataset/Healthy/Image416_1780.jpg",
+      1
+    ],
+    [
+      "/Users/weolyse/Documents/Computer Vision/ass-1/plant_dataset/Diseased/Image416_1206.jpg",
+      0
+    ],
+    [
+      "/Users/weolyse/Documents/Computer Vision/ass-1/plant_dataset/Healthy/IMG20261005125427.jpg",
+      1
+    ],
+    [
+      "/Users/weolyse/Documents/Computer Vision/ass-1/plant_dataset/Healthy/Image416_1844.jpg",
+      1
+    ],
+    [
+      "/Users/weolyse/Documents/Computer Vision/ass-1/plant_dataset/Diseased/Image416_160.jpg",
+      0
+    ],
+    [
+      "/Users/weolyse/Documents/Computer Vision/ass-1/plant_dataset/Diseased/Image416_1077.jpg",
+      0
+    ],
+    [
+      "/Users/weolyse/Documents/Computer Vision/ass-1/plant_dataset/Healthy/IMG20261005120204.jpg",
+      1
+    ],
+    [
+      "/Users/weolyse/Documents/Computer Vision/ass-1/plant_dataset/Healthy/Image416_2061.jpg",
+      1
+    ],
+    [
+      "/Users/weolyse/Documents/Computer Vision/ass-1/plant_dataset/Diseased/Image416_35.jpg",
+      0
+    ],
+    [
+      "/Users/weolyse/Documents/Computer Vision/ass-1/plant_dataset/Diseased/Image416_1056.jpg",
+      0
+    ],
+    [
+      "/Users/weolyse/Documents/Computer Vision/ass-1/plant_dataset/Healthy/IMG20261005125424.jpg",
+      1
+    ],
+    [
+      "/Users/weolyse/Documents/Computer Vision/ass-1/plant_dataset/Healthy/Image416_1765.jpg",
+      1
+    ],
+    [
+      "/Users/weolyse/Documents/Computer Vision/ass-1/plant_dataset/Healthy/Image416_1749.jpg",
+      1
+    ],
+    [
+      "/Users/weolyse/Documents/Computer Vision/ass-1/plant_dataset/Healthy/Image416_1624.jpg",
+      1
+    ],
+    [
+      "/Users/weolyse/Documents/Computer Vision/ass-1/plant_dataset/Healthy/Image416_1536.jpg",
+      1
+    ],
+    [
+      "/Users/weolyse/Documents/Computer Vision/ass-1/plant_dataset/Healthy/IMG20261005125942.jpg",
+      1
+    ],
+    [
+      "/Users/weolyse/Documents/Computer Vision/ass-1/plant_dataset/Diseased/Image416_162.jpg",
+      0
+    ],
+    [
+      "/Users/weolyse/Documents/Computer Vision/ass-1/plant_dataset/Diseased/Image416_13.jpg",
+      0
+    ],
+    [
+      "/Users/weolyse/Documents/Computer Vision/ass-1/plant_dataset/Diseased/Image416_59.jpg",
+      0
+    ],
+    [
+      "/Users/weolyse/Documents/Computer Vision/ass-1/plant_dataset/Healthy/Image416_1606.jpg",
+      1
+    ],
+    [
+      "/Users/weolyse/Documents/Computer Vision/ass-1/plant_dataset/Diseased/Image416_1568.jpg",
+      0
+    ],
+    [
+      "/Users/weolyse/Documents/Computer Vision/ass-1/plant_dataset/Diseased/Image416_15.jpg",
+      0
+    ],
+    [
+      "/Users/weolyse/Documents/Computer Vision/ass-1/plant_dataset/Diseased/Image416_120.jpg",
+      0
+    ]
+  ],
+  "test": [
+    [
+      "/Users/weolyse/Documents/Computer Vision/ass-1/plant_dataset/Healthy/IMG20261005120252.jpg",
+      1
+    ],
+    [
+      "/Users/weolyse/Documents/Computer Vision/ass-1/plant_dataset/Healthy/Image416_2024.jpg",
+      1
+    ],
+    [
+      "/Users/weolyse/Documents/Computer Vision/ass-1/plant_dataset/Healthy/Image416_1995.jpg",
+      1
+    ],
+    [
+      "/Users/weolyse/Documents/Computer Vision/ass-1/plant_dataset/Healthy/IMG20261005125207.jpg",
+      1
+    ],
+    [
+      "/Users/weolyse/Documents/Computer Vision/ass-1/plant_dataset/Diseased/Image416_36.jpg",
+      0
+    ],
+    [
+      "/Users/weolyse/Documents/Computer Vision/ass-1/plant_dataset/Diseased/Image416_96.jpg",
+      0
+    ],
+    [
+      "/Users/weolyse/Documents/Computer Vision/ass-1/plant_dataset/Diseased/Image416_50.jpg",
+      0
+    ],
+    [
+      "/Users/weolyse/Documents/Computer Vision/ass-1/plant_dataset/Diseased/Image416_1069.jpg",
+      0
+    ],
+    [
+      "/Users/weolyse/Documents/Computer Vision/ass-1/plant_dataset/Healthy/Image416_2109.jpg",
+      1
+    ],
+    [
+      "/Users/weolyse/Documents/Computer Vision/ass-1/plant_dataset/Diseased/Image416_1619.jpg",
+      0
+    ],
+    [
+      "/Users/weolyse/Documents/Computer Vision/ass-1/plant_dataset/Diseased/Image416_1098.jpg",
+      0
+    ],
+    [
+      "/Users/weolyse/Documents/Computer Vision/ass-1/plant_dataset/Diseased/Image416_1554.jpg",
+      0
+    ],
+    [
+      "/Users/weolyse/Documents/Computer Vision/ass-1/plant_dataset/Diseased/Image416_60.jpg",
+      0
+    ],
+    [
+      "/Users/weolyse/Documents/Computer Vision/ass-1/plant_dataset/Diseased/Image416_75.jpg",
+      0
+    ],
+    [
+      "/Users/weolyse/Documents/Computer Vision/ass-1/plant_dataset/Healthy/IMG20261005125450.jpg",
+      1
+    ],
+    [
+      "/Users/weolyse/Documents/Computer Vision/ass-1/plant_dataset/Healthy/IMG20261005125727.jpg",
+      1
+    ],
+    [
+      "/Users/weolyse/Documents/Computer Vision/ass-1/plant_dataset/Diseased/Image416_146.jpg",
+      0
+    ],
+    [
+      "/Users/weolyse/Documents/Computer Vision/ass-1/plant_dataset/Diseased/Image416_92.jpg",
+      0
+    ],
+    [
+      "/Users/weolyse/Documents/Computer Vision/ass-1/plant_dataset/Healthy/IMG20261005125701.jpg",
+      1
+    ],
+    [
+      "/Users/weolyse/Documents/Computer Vision/ass-1/plant_dataset/Diseased/Image416_1209.jpg",
+      0
+    ],
+    [
+      "/Users/weolyse/Documents/Computer Vision/ass-1/plant_dataset/Diseased/Image416_1485.jpg",
+      0
+    ],
+    [
+      "/Users/weolyse/Documents/Computer Vision/ass-1/plant_dataset/Diseased/Image416_1487.jpg",
+      0
+    ],
+    [
+      "/Users/weolyse/Documents/Computer Vision/ass-1/plant_dataset/Healthy/IMG20261005125621.jpg",
+      1
+    ],
+    [
+      "/Users/weolyse/Documents/Computer Vision/ass-1/plant_dataset/Diseased/Image416_53.jpg",
+      0
+    ],
+    [
+      "/Users/weolyse/Documents/Computer Vision/ass-1/plant_dataset/Diseased/Image416_1186.jpg",
+      0
+    ],
+    [
+      "/Users/weolyse/Documents/Computer Vision/ass-1/plant_dataset/Diseased/Image416_1573.jpg",
+      0
+    ],
+    [
+      "/Users/weolyse/Documents/Computer Vision/ass-1/plant_dataset/Healthy/IMG20261005125946.jpg",
+      1
+    ],
+    [
+      "/Users/weolyse/Documents/Computer Vision/ass-1/plant_dataset/Healthy/Image416_1894.jpg",
+      1
+    ],
+    [
+      "/Users/weolyse/Documents/Computer Vision/ass-1/plant_dataset/Healthy/IMG20261005125309.jpg",
+      1
+    ],
+    [
+      "/Users/weolyse/Documents/Computer Vision/ass-1/plant_dataset/Diseased/Image416_73.jpg",
+      0
+    ],
+    [
+      "/Users/weolyse/Documents/Computer Vision/ass-1/plant_dataset/Healthy/IMG20261005125617.jpg",
+      1
+    ],
+    [
+      "/Users/weolyse/Documents/Computer Vision/ass-1/plant_dataset/Diseased/Image416_1105.jpg",
+      0
+    ],
+    [
+      "/Users/weolyse/Documents/Computer Vision/ass-1/plant_dataset/Diseased/Image416_1607.jpg",
+      0
+    ],
+    [
+      "/Users/weolyse/Documents/Computer Vision/ass-1/plant_dataset/Diseased/Image416_1556.jpg",
+      0
+    ],
+    [
+      "/Users/weolyse/Documents/Computer Vision/ass-1/plant_dataset/Healthy/IMG20261005125507.jpg",
+      1
+    ],
+    [
+      "/Users/weolyse/Documents/Computer Vision/ass-1/plant_dataset/Healthy/IMG20261005125658.jpg",
+      1
+    ],
+    [
+      "/Users/weolyse/Documents/Computer Vision/ass-1/plant_dataset/Healthy/Image416_2040.jpg",
+      1
+    ],
+    [
+      "/Users/weolyse/Documents/Computer Vision/ass-1/plant_dataset/Healthy/IMG20261005125831.jpg",
+      1
+    ],
+    [
+      "/Users/weolyse/Documents/Computer Vision/ass-1/plant_dataset/Healthy/IMG20261005125551.jpg",
+      1
+    ],
+    [
+      "/Users/weolyse/Documents/Computer Vision/ass-1/plant_dataset/Healthy/IMG20261005125203.jpg",
+      1
+    ],
+    [
+      "/Users/weolyse/Documents/Computer Vision/ass-1/plant_dataset/Healthy/IMG20261005125227.jpg",
+      1
+    ]
+  ]
+}

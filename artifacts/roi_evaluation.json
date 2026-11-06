@@ -1,0 +1,84 @@
+{
+  "simple_cnn": {
+    "full_image": {
+      "accuracy": 0.875,
+      "macro_f1": 0.8749218261413383,
+      "confusion_matrix": [
+        [
+          17,
+          4
+        ],
+        [
+          1,
+          18
+        ]
+      ],
+      "mean_classifier_ms": 3.4244781249999967
+    },
+    "medsam2_roi": {
+      "accuracy": 0.55,
+      "macro_f1": 0.39999999999999997,
+      "confusion_matrix": [
+        [
+          21,
+          0
+        ],
+        [
+          18,
+          1
+        ]
+      ],
+      "mean_classifier_ms": 3.371436449999976
+    },
+    "delta_macro_f1": -0.4749218261413383
+  },
+  "resnet18": {
+    "full_image": {
+      "accuracy": 0.875,
+      "macro_f1": 0.8749218261413383,
+      "confusion_matrix": [
+        [
+          18,
+          3
+        ],
+        [
+          2,
+          17
+        ]
+      ],
+      "mean_classifier_ms": 12.945589575000005
+    },
+    "medsam2_roi": {
+      "accuracy": 0.6,
+      "macro_f1": 0.5833333333333333,
+      "confusion_matrix": [
+        [
+          8,
+          13
+        ],
+        [
+          3,
+          16
+        ]
+      ],
+      "mean_classifier_ms": 12.75119375
+    },
+    "delta_macro_f1": -0.29158849280800503
+  },
+  "metadata": {
+    "count": 40,
+    "total_test_count": 41,
+    "failures": [
+      {
+        "image": "/Users/weolyse/Documents/Computer Vision/ass-1/plant_dataset/Healthy/Image416_2024.jpg",
+        "reason": "MedSAM2 returned an empty mask. Draw a tighter box around the leaf."
+      }
+    ],
+    "comparison_scope": "Both modes evaluated on the same successfully segmented subset; failures excluded and explicitly counted.",
+    "mean_segmentation_ms": 193.45531564999996,
+    "prompt": "2% inset full-frame box",
+    "device": "cpu",
+    "mask_iou": null,
+    "reason": "No human reference masks provided; segmentation scores are model estimates, not measured IoU."
+  }
+}

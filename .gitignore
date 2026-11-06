@@ -1,0 +1,7 @@
+.venv/
+__pycache__/
+.pytest_cache/
+vendor/
+checkpoints/*.pt
+*.log
+.DS_Store

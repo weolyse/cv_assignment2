@@ -1,0 +1,120 @@
+[
+  {
+    "label": "Healthy",
+    "confidence": 0.5155550837516785,
+    "probabilities": {
+      "Diseased": 0.48444485664367676,
+      "Healthy": 0.5155550837516785
+    },
+    "model": "simple_cnn",
+    "segmentation": "Disabled",
+    "mask_score": null,
+    "mask_coverage": null,
+    "box": [
+      0.13,
+      0.32,
+      0.8,
+      0.85
+    ],
+    "gradcam_active": true,
+    "device": "cpu",
+    "latency_ms": {
+      "segmentation": 0,
+      "classification_and_gradcam": 11,
+      "total": 11
+    },
+    "notes": [
+      "Softmax confidence is not calibrated.",
+      "Grad-CAM shows class influence, not a lesion diagnosis."
+    ]
+  },
+  {
+    "label": "Diseased",
+    "confidence": 0.7456637620925903,
+    "probabilities": {
+      "Diseased": 0.7456637620925903,
+      "Healthy": 0.2543362081050873
+    },
+    "model": "simple_cnn",
+    "segmentation": "MedSAM2",
+    "mask_score": 0.9422124624252319,
+    "mask_coverage": 0.22344080607096353,
+    "box": [
+      0.13,
+      0.32,
+      0.8,
+      0.85
+    ],
+    "gradcam_active": true,
+    "device": "cpu",
+    "latency_ms": {
+      "segmentation": 581,
+      "classification_and_gradcam": 11,
+      "total": 591
+    },
+    "notes": [
+      "Softmax confidence is not calibrated.",
+      "Grad-CAM shows class influence, not a lesion diagnosis.",
+      "MedSAM2 is medical-domain pretrained; leaf masks require visual review. ROI inputs differ from full-image classifier training."
+    ]
+  },
+  {
+    "label": "Diseased",
+    "confidence": 0.625560462474823,
+    "probabilities": {
+      "Diseased": 0.625560462474823,
+      "Healthy": 0.3744395971298218
+    },
+    "model": "resnet18",
+    "segmentation": "Disabled",
+    "mask_score": null,
+    "mask_coverage": null,
+    "box": [
+      0.13,
+      0.32,
+      0.8,
+      0.85
+    ],
+    "gradcam_active": true,
+    "device": "cpu",
+    "latency_ms": {
+      "segmentation": 0,
+      "classification_and_gradcam": 18,
+      "total": 18
+    },
+    "notes": [
+      "Softmax confidence is not calibrated.",
+      "Grad-CAM shows class influence, not a lesion diagnosis."
+    ]
+  },
+  {
+    "label": "Healthy",
+    "confidence": 0.6409189105033875,
+    "probabilities": {
+      "Diseased": 0.35908108949661255,
+      "Healthy": 0.6409189105033875
+    },
+    "model": "resnet18",
+    "segmentation": "MedSAM2",
+    "mask_score": 0.9422124624252319,
+    "mask_coverage": 0.22344080607096353,
+    "box": [
+      0.13,
+      0.32,
+      0.8,
+      0.85
+    ],
+    "gradcam_active": true,
+    "device": "cpu",
+    "latency_ms": {
+      "segmentation": 205,
+      "classification_and_gradcam": 18,
+      "total": 223
+    },
+    "notes": [
+      "Softmax confidence is not calibrated.",
+      "Grad-CAM shows class influence, not a lesion diagnosis.",
+      "MedSAM2 is medical-domain pretrained; leaf masks require visual review. ROI inputs differ from full-image classifier training."
+    ]
+  }
+]
